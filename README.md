@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="image.png" alt="Minha imagem" width="100"/></td>
-    <td><h1>Sobre mim</h1></td>
+    <td><h1>Gabriela Schaper</h1></td>
   </tr>
 </table>
 
