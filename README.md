@@ -13,7 +13,7 @@
 - Mobile:
 ![Swift](https://img.shields.io/badge/swift-5340C0?style=for-the-badge&logo=swift&logoColor=white)
 - Web:
-![JavaScript](https://img.shields.io/badge/javascript-C2E0FF.svg?style=for-the-badge&logo=javascript&logoColor=090C11) ![HTML5](https://img.shields.io/badge/html5-C2E0FF.svg?style=for-the-badge&logo=html5&logoColor=090C11) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-C2E0FF.svg?style=for-the-badge&logo=javascript&logoColor=090C11) ![HTML5](https://img.shields.io/badge/html5-C2E0FF.svg?style=for-the-badge&logo=html5&logoColor=090C11) ![CSS3](https://img.shields.io/badge/css3-C2E0FF.svg?style=for-the-badge&logo=css3&logoColor=090C11)  ![PHP](https://img.shields.io/badge/php-C2E0FF.svg?style=for-the-badge&logo=php&logoColor=090C11)
 - BD:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - Design: <img src="https://img.shields.io/badge/figma-A020F0.svg?&style=for-the-badge&logo=figma&logoColor=white" />
