@@ -1,4 +1,4 @@
-<table>
+x<table>
   <tr>
     <td><img src="image.png" alt="Minha imagem" width="100"/></td>
     <td><h1>Gabriela Schaper</h1></td>
@@ -9,7 +9,7 @@
 
 👋 Olá, me chamo Gabriela Schaper
 
-🎓 Tenho interesse em aprender mais linguagens de programação, e me aprofundar nelas
+🎓 Tenho interesse em explorar novas linguagens de programação e aprofundar meus conhecimentos nelas.
 
 📖 Cursando Ensino Médio Técnico no Cotemig, (3° Ano - Mobile)
 
