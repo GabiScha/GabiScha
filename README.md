@@ -8,9 +8,13 @@
 ## 
 
 👋 Olá, me chamo Gabriela Schaper
+
 🎓 Tenho interesse em aprender mais linguagens de programação, e me aprofundar nelas
+
 📖 Cursando Ensino Médio Técnico no Cemig, (3° Ano - Mobile)
+
 🈺 Busco colocar meus conhecimentos em prática através de Estágios
+
 ✉️ Redes / Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaschaper/) [![Email](https://img.shields.io/badge/Email-99AAFF.svg?style=for-the-badge)](mailto:gabrielasch2409@gmail.com)
