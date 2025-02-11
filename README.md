@@ -1,5 +1,8 @@
-![alt text](image.png)
-# Sobre mim:
+<div align="center">
+  <img src="image.png" alt="Minha imagem" width="150"/>
+  <h1>Sobre mim</h1>
+</div>
+
 - Olá, me chamo Gabriela Schaper
 - Tenho interesse em aprender mais linguagens de programação, e me aprofundar nelas
 - Cursando Ensino Médio Técnico no Cemig, (3° Ano - Mobile)
