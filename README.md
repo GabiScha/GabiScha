@@ -11,7 +11,7 @@
 - Cursando Ensino Médio Técnico no Cemig, (3° Ano - Mobile)
 - Busco colocar meus conhecimentos em prática através de Estágios
 - Redes / Contato:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/gabriela-schaper-38288330a/) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/gabriela-schaper-38288330a/) 
 
 ## TechStack:
 
