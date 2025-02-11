@@ -12,7 +12,7 @@
 - Busco colocar meus conhecimentos em prática através de Estágios
 - Redes / Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriela-schaper-38288330a/) [![Email](https://img.shields.io/badge/Email-99AAFF.svg?style=for-the-badge)](mailto:gab@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriela-schaper-38288330a/) [![Email](https://img.shields.io/badge/Email-99AAFF.svg?style=for-the-badge)](mailto:gabrielasch2409@gmail.com)
 
 ## TechStack:
 
