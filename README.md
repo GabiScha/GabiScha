@@ -1,4 +1,4 @@
-
+![alt text](image.png)
 # Sobre mim:
 - Olá, me chamo Gabriela Schaper
 - Tenho interesse em aprender mais linguagens de programação, e me aprofundar nelas
