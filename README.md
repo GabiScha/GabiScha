@@ -1,12 +1,12 @@
 
-### Sobre mim:
+# Sobre mim:
 - Olá, me chamo Gabriela Schaper
 - Tenho interesse em aprender mais linguagens de programação, e me aprofundar nelas
 - Cursando Ensino Médio Técnico no Cemig, (3° Ano - Mobile)
 - Busco colocar meus conhecimentos em prática através de Estágios
 - Redes / Contato: 
 
-#### TechStack:
+## TechStack:
 
 - Desktop: 
 ![C#](https://img.shields.io/badge/c%23-99AAFF.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-99AAFF.svg?style=for-the-badge&logo=javascript&logoColor=white) 
