@@ -1,9 +1,13 @@
-## Hi there 👋
 
-<!--
-**GabiScha/GabiScha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sobre mim:
+- Olá, me chamo Gabriela Schaper
+- Tenho interesse em aprender mais linguagens de programação, e me aprofundar nelas
+- Cursando Ensino Médio Técnico no Cemig, (3° Ano - Mobile)
+- Busco colocar meus conhecimentos em prática através de Estágios
+- Redes / Contato: 
 
-Here are some ideas to get you started:
+
+#### TechStack:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
