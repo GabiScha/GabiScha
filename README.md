@@ -9,7 +9,7 @@ x<table>
 
 👋 Olá, me chamo Gabriela Schaper
 
-🎓 Tenho interesse em explorar novas linguagens de programação e aprofundar meus conhecimentos nelas.
+🎓 Tenho interesse em explorar novas linguagens de programação e aprofundar meus conhecimentos.
 
 📖 Cursando Ensino Médio Técnico no Cotemig, (3° Ano - Mobile)
 
