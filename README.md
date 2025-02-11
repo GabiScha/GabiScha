@@ -9,6 +9,7 @@
 ## TechStack:
 
 - Desktop: 
+
 ![C#](https://img.shields.io/badge/c%23-99AAFF.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-99AAFF.svg?style=for-the-badge&logo=javascript&logoColor=white) 
 - Mobile:
 ![Swift](https://img.shields.io/badge/swift-5340C0?style=for-the-badge&logo=swift&logoColor=white)
