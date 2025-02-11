@@ -1,9 +1,8 @@
-<table>
+
   
     <td><img src="image.png" alt="Minha imagem" width="100"/></td>
     <td><h1>Sobre mim</h1></td>
   
-</table>
 
 
 - Olá, me chamo Gabriela Schaper
