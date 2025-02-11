@@ -10,7 +10,7 @@
 
 Desktop: 
 
-![C#](https://img.shields.io/badge/c%23-99AAFF.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-99AAFF.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-99AAFF.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-99AAFF?style=for-the-badge&logo=python&logoColor=white)
 
 Mobile:
 
