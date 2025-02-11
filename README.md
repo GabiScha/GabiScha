@@ -22,7 +22,7 @@ Desktop:
 
 Mobile:
 
-![Swift](https://img.shields.io/badge/swift-5340C0?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-5340C0?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-5340C0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 Web:
 
