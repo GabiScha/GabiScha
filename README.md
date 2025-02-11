@@ -11,7 +11,7 @@
 
 🎓 Tenho interesse em aprender mais linguagens de programação, e me aprofundar nelas
 
-📖 Cursando Ensino Médio Técnico no Cemig, (3° Ano - Mobile)
+📖 Cursando Ensino Médio Técnico no Cotemig, (3° Ano - Mobile)
 
 🈺 Busco colocar meus conhecimentos em prática através de Estágios
 
