@@ -4,8 +4,8 @@
     <td><h1>Gabriela Schaper</h1></td>
   </tr>
 </table>
-## TechStack:
 
+## 
 - Olá, me chamo Gabriela Schaper
 - Tenho interesse em aprender mais linguagens de programação, e me aprofundar nelas
 - Cursando Ensino Médio Técnico no Cemig, (3° Ano - Mobile)
