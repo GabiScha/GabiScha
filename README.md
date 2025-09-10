@@ -13,7 +13,7 @@
 
 📖 Cursando Ensino Médio Técnico no Cotemig, (3° Ano - Mobile)
 
-🈺 Busco colocar meus conhecimentos em prática através de Estágios
+🈺 Busco colocar meus conhecimentos em prática através de Diferentes Projetos
 
 📧 Redes / Contato:
 
