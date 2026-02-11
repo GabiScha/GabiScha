@@ -30,7 +30,7 @@
 ![Python](https://img.shields.io/badge/python-99AAFF?style=for-the-badge&logo=python&logoColor=white)
 
 📱 **Mobile:**  
-![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+![Flutter](https://img.shields.io/badge/flutter-5340C0.svg?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-5340C0?style=for-the-badge&logo=swift&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-5340C0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
