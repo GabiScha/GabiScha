@@ -5,51 +5,59 @@
   </tr>
 </table>
 
-## 
+---
 
-👋 Olá, me chamo Gabriela Schaper
+👋 Olá, me chamo **Gabriela Schaper**
 
-🎓 Tenho interesse em explorar novas linguagens de programação e aprofundar meus conhecimentos.
+🎓 Cursando **Ciência da Computação na PUC Minas**  
+📚 Formação Técnica em Informática (Cotemig)
 
-📖 Cursando Ensino Médio Técnico no Cotemig, (3° Ano - Mobile)
+💡 Tenho interesse em desenvolvimento de software e busco constantemente aprofundar meus conhecimentos em diferentes linguagens e tecnologias.
 
-🈺 Busco colocar meus conhecimentos em prática através de diferentes projetos
+🚀 Procuro oportunidades para aplicar meus conhecimentos em projetos reais e crescer profissionalmente na área de tecnologia.
 
 📧 Redes / Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaschaper/) [![Email](https://img.shields.io/badge/Email-99AAFF.svg?style=for-the-badge)](mailto:gabrielasch2409@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaschaper/) 
+[![Email](https://img.shields.io/badge/Email-99AAFF.svg?style=for-the-badge)](mailto:gabrielasch2409@gmail.com)
 
-## TechStack:
+---
 
-💻Desktop: 
+## 🛠 Tech Stack
 
-![C#](https://img.shields.io/badge/c%23-99AAFF.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-99AAFF?style=for-the-badge&logo=python&logoColor=white)
+💻 **Desktop:**  
+![C#](https://img.shields.io/badge/c%23-99AAFF.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Python](https://img.shields.io/badge/python-99AAFF?style=for-the-badge&logo=python&logoColor=white)
 
-📱Mobile:
+📱 **Mobile:**  
+![Swift](https://img.shields.io/badge/swift-5340C0?style=for-the-badge&logo=swift&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-5340C0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![Swift](https://img.shields.io/badge/swift-5340C0?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-5340C0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+🌐 **Web:**  
+![JavaScript](https://img.shields.io/badge/javascript-C2E0FF.svg?style=for-the-badge&logo=javascript&logoColor=090C11) 
+![HTML5](https://img.shields.io/badge/html5-C2E0FF.svg?style=for-the-badge&logo=html5&logoColor=090C11) 
+![CSS3](https://img.shields.io/badge/css3-C2E0FF.svg?style=for-the-badge&logo=css3&logoColor=090C11)  
+![PHP](https://img.shields.io/badge/php-C2E0FF.svg?style=for-the-badge&logo=php&logoColor=090C11)
 
-🌐Web:
+🗄️ **Banco de Dados:**  
+![MySQL](https://img.shields.io/badge/mysql-1E2A77.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-1E2A77.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-C2E0FF.svg?style=for-the-badge&logo=javascript&logoColor=090C11) ![HTML5](https://img.shields.io/badge/html5-C2E0FF.svg?style=for-the-badge&logo=html5&logoColor=090C11) ![CSS3](https://img.shields.io/badge/css3-C2E0FF.svg?style=for-the-badge&logo=css3&logoColor=090C11)  ![PHP](https://img.shields.io/badge/php-C2E0FF.svg?style=for-the-badge&logo=php&logoColor=090C11)
-
-🗄️BD:
-
-![MySQL](https://img.shields.io/badge/mysql-1E2A77.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-1E2A77.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-🎨Design: 
-
+🎨 **Design:**  
 <img src="https://img.shields.io/badge/figma-A7ECFF.svg?&style=for-the-badge&logo=figma&logoColor=090C11" />
 
+---
 
+# 📊 GitHub Stats
 
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GabiScha&theme=tokyonight&hide_border=false" />
+</p>
 
-# 📊 GitHub Stats:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiScha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GabiScha&theme=tokyonight&hide_border=false" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiScha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=GabiScha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></p>
-
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GabiScha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
