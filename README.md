@@ -10,6 +10,7 @@
 👋 Olá, me chamo Gabriela Schaper
 
 🎓 Cursando Ciência da Computação na PUC Minas
+
 📚 Formação Técnica em Informática (Cotemig)
 
 💡 Tenho interesse em desenvolvimento de software e busco constantemente aprofundar meus conhecimentos em diferentes linguagens e tecnologias.
