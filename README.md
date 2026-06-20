@@ -1,9 +1,7 @@
-<table>
-  <tr>
-    <td><img src="image.png" alt="Minha imagem" width="100"/></td>
-    <td><h1>Gabriela Schaper</h1></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="city.gif" alt="City Banner" width="100%"/>
+  <h1>Gabriela Schaper</h1>
+</div>
 
 ---
 
@@ -26,27 +24,22 @@
 
 ## 🛠 Tech Stack
 
-💻 **Desktop:**  
-![C#](https://img.shields.io/badge/c%23-99AAFF.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+💻 **Desktop:** ![C#](https://img.shields.io/badge/c%23-99AAFF.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-99AAFF?style=for-the-badge&logo=python&logoColor=white)
 
-📱 **Mobile:**  
-![Flutter](https://img.shields.io/badge/flutter-5340C0.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+📱 **Mobile:** ![Flutter](https://img.shields.io/badge/flutter-5340C0.svg?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-5340C0?style=for-the-badge&logo=swift&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-5340C0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-🌐 **Web:**  
-![JavaScript](https://img.shields.io/badge/javascript-C2E0FF.svg?style=for-the-badge&logo=javascript&logoColor=090C11) 
+🌐 **Web:** ![JavaScript](https://img.shields.io/badge/javascript-C2E0FF.svg?style=for-the-badge&logo=javascript&logoColor=090C11) 
 ![HTML5](https://img.shields.io/badge/html5-C2E0FF.svg?style=for-the-badge&logo=html5&logoColor=090C11) 
 ![CSS3](https://img.shields.io/badge/css3-C2E0FF.svg?style=for-the-badge&logo=css3&logoColor=090C11)  
 ![PHP](https://img.shields.io/badge/php-C2E0FF.svg?style=for-the-badge&logo=php&logoColor=090C11)
 
-🗄️ **Banco de Dados:**  
-![MySQL](https://img.shields.io/badge/mysql-1E2A77.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+🗄️ **Banco de Dados:** ![MySQL](https://img.shields.io/badge/mysql-1E2A77.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-1E2A77.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-🎨 **Design:**  
-<img src="https://img.shields.io/badge/figma-A7ECFF.svg?&style=for-the-badge&logo=figma&logoColor=090C11" />
+🎨 **Design:** <img src="https://img.shields.io/badge/figma-A7ECFF.svg?&style=for-the-badge&logo=figma&logoColor=090C11" />
 
 ---
 
@@ -55,4 +48,3 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GabiScha&theme=tokyonight&hide_border=false" />
 </p>
-
