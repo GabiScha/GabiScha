@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="city.gif" alt="City Banner" width="100%"/>
+  <div style="height: 180px; width: 100%; overflow: hidden; position: relative; display: block; border-radius: 8px;">
+    <img src="city.gif" alt="City Banner" style="width: 100%; position: absolute; top: -50px; left: 0;" />
+  </div>
   <h1>Gabriela Schaper</h1>
 </div>
 
